@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Live Preview](https://netflix-clo-2e043.web.app/)
+[Live Preview](https://netflix-clo-2e043.web.app/)
 
 ## Available Scripts
 
